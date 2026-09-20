@@ -9,7 +9,7 @@ Built for **Logseq 2.0.1 DB graphs → Export public pages**.
 [Live example: Arney's garden](https://arney-garden.pages.dev) · [Exporter guide](static-garden/README.md) · [Contributing](CONTRIBUTING.md)
 
 <!-- Screenshot: add docs/images/homepage.png here, using the fictional example garden. -->
-<!-- ![Example garden](docs/images/homepage.png) -->
+![Example garden](docs/images/homepage.png)
 
 ## What carries over
 
